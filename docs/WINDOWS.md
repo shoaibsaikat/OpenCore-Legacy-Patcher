@@ -184,7 +184,7 @@ Then run `.\brigadier.exe --model=MODEL1,1`, replacing "MODEL1,1" with your mach
 
 Once the Boot Camp software is downloaded, you can install it by executing `Setup.exe` or `\Drivers\Apple\BootCamp.msi` (`BootCamp64.msi` if present).
 
-### Installing Boot Camp 6 softare on unsupported machines
+### Installing Boot Camp 6 software on unsupported machines
 
 To get started, download the Brigadier utility from the following link:
 
